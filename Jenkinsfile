@@ -8,6 +8,7 @@ pipeline {
                 sh("echo test"); 
                 sh("echo test"); 
                 sh("echo test12"); 
+                sh("echo test12"); 
             } 
         }         
     }
