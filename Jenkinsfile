@@ -12,6 +12,7 @@ pipeline {
                 sh("echo suhas"); 
                 sh("echo suhas"); 
                   sh("echo suhas i ndemo branch"); 
+                sh("echo suhas i ndemo branch"); 
             } 
         }         
     }
